@@ -11,3 +11,4 @@ Ensure you commit after each step.
  - If there are an odd number of players the last player should be made a substitute.
  - There are two players that are more skilled than the rest and need to be on separate teams e.g Bill and Ben. Adapt the solution to allow players to have a rating.
  - More players have decided to join in each week. There are potentially 20 players each week, rather than having two teams of ten they'd like four teams of five. Expand the solution so that the number of teams to generate can be specified.
+ - Finally, now that the solution should be well covered with tests - does it need refactoring?
